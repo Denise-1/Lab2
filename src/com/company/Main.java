@@ -1,7 +1,7 @@
 // Denise Chen
-// IS 146-04
+// IS 147-04
 // d189@umbc.edu
-// date
+// 10/13/2021
 // Use switch and If, elseif, else to print months
 
 package com.company;
